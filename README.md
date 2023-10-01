@@ -24,7 +24,13 @@ http://127.0.0.1:5500/starbucks-starter-main/index.html
 - CSS
 
 ## Preview📸
-![Screenrecording](https://github.com/Shourya-Garg/Starbucks-/blob/main/127.0.0.1_5500_starbucks-starter-main_index.html%20-%20Google%20Chrome%202023-10-01%2009-36-47.mp4)
+![Screenshot1](https://github.com/Shourya-Garg/Starbucks-/blob/main/127.0.0.1_5500_starbucks-starter-main_index.html%20-%20Google%20Chrome%2010_1_2023%209_49_49%20AM.png)
+![Screenshot2](https://github.com/Shourya-Garg/Starbucks-/blob/main/127.0.0.1_5500_starbucks-starter-main_index.html%20-%20Google%20Chrome%2010_1_2023%209_50_06%20AM.png)
+![Screenshot3](https://github.com/Shourya-Garg/Starbucks-/blob/main/127.0.0.1_5500_starbucks-starter-main_index.html%20-%20Google%20Chrome%2010_1_2023%209_50_15%20AM.png)
+![Screenshot4](https://github.com/Shourya-Garg/Starbucks-/blob/main/127.0.0.1_5500_starbucks-starter-main_index.html%20-%20Google%20Chrome%2010_1_2023%209_50_22%20AM.png)
+![Screenshot5](https://github.com/Shourya-Garg/Starbucks-/blob/main/127.0.0.1_5500_starbucks-starter-main_index.html%20-%20Google%20Chrome%2010_1_2023%209_50_30%20AM.png)
+![Screenshot6](https://github.com/Shourya-Garg/Starbucks-/blob/main/127.0.0.1_5500_starbucks-starter-main_index.html%20-%20Google%20Chrome%2010_1_2023%209_50_38%20AM.png)
+
 
 
 ## Credit✒
