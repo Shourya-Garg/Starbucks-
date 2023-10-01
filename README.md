@@ -10,7 +10,7 @@ Welcome to the Starbucks Website project! This is a simple website built using H
 - License
 
 ## Demo🔗
-https://coffee-by-divyam-jha.netlify.app/
+http://127.0.0.1:5500/starbucks-starter-main/index.html
 
 ## Features🔑
 - Home page with an overview of Starbucks and its offerings
