@@ -1,6 +1,3 @@
-# Starbucks-
-Starbucks-landing Page-clone!! Welcome to the Starbucks Website project! This is a simple website built using HTML and CSS to showcase the Starbucks brand and provide information about their products and services.
-
 # Starbucks-clone☕
 Welcome to the Starbucks Website project! This is a simple website built using HTML and CSS to showcase the Starbucks brand and provide information about their products and services.
 ## Table of Contents💻
@@ -27,8 +24,8 @@ https://coffee-by-divyam-jha.netlify.app/
 - CSS
 
 ## Preview📸
-![Screenrecording]()
+![Screenrecording](https://github.com/Shourya-Garg/Starbucks-/blob/main/127.0.0.1_5500_starbucks-starter-main_index.html%20-%20Google%20Chrome%202023-10-01%2009-36-47.mp4)
 
 
 ## Credit✒
-Made By: *Divyam Jha*
+Made By: *Shourya Garg*
